@@ -1,0 +1,8 @@
+tipo,data_referencia,indicador,valor,unidade,qualificador,url
+REAL,2026-08-11,socios_gnv,200000,associados,marco alcançado,https://atletico.com.br/galo-na-veia-alcanca-marca-historica-de-200-mil-socios/
+REAL,2026-08-30,socios_gnv,235000,associados,mais de (limite inferior),https://atletico.com.br/galo-na-veia-chega-a-235-mil-socios/
+REAL,2026-10-15,socios_gnv,300000,associados,marco alcançado,https://atletico.com.br/galo-na-veia-alcanca-marca-historica-de-300-mil-socios/
+REAL,2026-09-21,tabelas_galolake,550,tabelas,mais de (limite inferior),https://atletico.com.br/galo-utiliza-dados-para-entender-comportamento-do-torcedor/
+REAL,2026-09-21,registros_galolake,1800000000,registros,aproximadamente,https://atletico.com.br/galo-utiliza-dados-para-entender-comportamento-do-torcedor/
+REAL,2026-09-19,estreantes_arena,11257,torcedores,partida específica contra Chapecoense,https://atletico.com.br/galo-utiliza-dados-para-entender-comportamento-do-torcedor/
+REAL,2025-10-10,estreantes_massa_promocao,839,torcedores,recorte de partida contra Sport divulgado pelo clube,https://atletico.com.br/promocao-na-arena-mrv-impulsiona-o-gnv-da-massa/
